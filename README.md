@@ -1,4 +1,4 @@
-# Hi, my name is THomas Ng and I am in Sydney Australia. I am both developer and systems administrator for unix environment. I was infrastructure engineer/analyst doing support for many years until i was made redundant early 2019.
+# Hi, my name is Tomas Ng and I am in Sydney Australia. I am both developer and systems administrator for unix environment. I was infrastructure engineer/analyst doing support for many years until i was made redundant early 2019.
 The purpose of this project is to keep tabs of my ansible journey and hence this branching in github.
 # ansible
 ansible yaml repo
